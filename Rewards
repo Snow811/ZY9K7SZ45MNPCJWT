@@ -1,0 +1,16 @@
+
+///////////////////////////////////begin building supplies setup//////////////////
+
+$coinsforbuildingsupplies = "10"; // cost Backpack of building supplies package 1
+$mybuildlootp1 = "[\"DZ_LargeGunBag_EP1\",[[\"ItemCompass\"],[1,1]],[[\"ItemWoodWallGarageDoor\",\"ItemWoodWallWithDoorLg\",\"ItemWoodWallLg\",\"ItemVault\",\"ItemWoodFloor\",\"ItemWoodStairs\",\"PartWoodLumber\",\"20Rnd_762x51_B_SCAR\",\"ItemComboLock\",\"ItemAntibiotic\",\"ItemBandage\",\"ItemGoldBar1oz\",\"MortarBucket\"],[1,1,4,1,4,2,4,1,1,2,1,2]]]";
+$buildlootdescp1 = "DZ_LargeGunBag_EP1 ItemCompass (1)ItemWoodWallGarageDoor (1)ItemWoodWallWithDoorLg (4)ItemWoodWallLg (1)ItemVault (4)ItemWoodFloor<br> (2)ItemWoodStairs (4)PartWoodLumber<br> (1)ItemComboLock (1)ItemAntibiotic (2)ItemBandage (1)ItemGoldBar1oz (2)MortarBucket"; //whats in the building loot?
+
+$coinsforbuildingsupplies2 = "15"; // cost BackPack of building Supplies Package 2
+$mybuildlootp2 = "[\"DZ_LargeGunBag_EP1\",[[\"ItemCompass\"],[1,1]],[[\"ItemWoodWallGarageDoor\",\"ItemWoodWallWithDoorLg\",\"ItemWoodWallLg\",\"ItemVault\",\"ItemWoodFloor\",\"ItemWoodStairs\",\"PartWoodLumber\",\"10Rnd_127x99_m107\",\"ItemComboLock\",\"ItemAntibiotic\",\"ItemBandage\",\"ItemGoldBar1oz\",\"MortarBucket\"],[1,1,4,1,4,2,4,1,1,2,1,2]]]";
+$buildlootdescp2 = "DZ_LargeGunBag_EP1 ItemCompass<br>(1)ItemWoodWallGarageDoor (1)ItemWoodWallWithDoorLg (4)ItemWoodWallLg<br>(1)ItemVault (4)ItemWoodFloor (2)ItemWoodStairs (4)PartWoodLumber<br> (1)ItemComboLock (1)ItemAntibiotic (2)ItemBandage (1)ItemGoldBar1oz (2)MortarBucket"; //whats in the building loot?
+
+$coinsforbuildingsupplies3 = "20"; // cost BackPack of Building Supplies Package 3
+$mybuildlootp3 = "[\"DZ_LargeGunBag_EP1\",[[\"ItemCompass\",\"ItemEtool\",\"ItemToolbox\",\"MeleeCrowbar\"],[1,1,1,1,1]],[[\"ItemVault\",\"ItemComboLock\",\"ItemAntibiotic\",\"ItemBandage\",\"ItemGoldBar1oz\",\"cinder_door_kit\",\"cinder_garage_kit\",\"cinder_wall_kit\",\"ItemWoodStairs\",\"10Rnd_127x99_m107\"],[1,1,1,2,1,1,1,7,3,7]]]";
+$buildlootdescp3 = "DZ_LargeGunBag_EP1 ItemCompass ItemEtool ItemToolbox MeleeCrowbar<br>(1)ItemVault (1)ItemComboLock (1)ItemAntibiotic<br>(2)ItemBandage (1)ItemGoldBar1oz (1)cinder_door_kit<br>(1)cinder_garage_kit (7)cinder_wall_kit (3)ItemWoodStairs,[1,1,1,2,1,1,1,7,3]]]"; //whats in the building loot?
+
+/////////////////////////////begin starting loot setup///////////////////////////////////
