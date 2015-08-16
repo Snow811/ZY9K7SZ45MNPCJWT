@@ -3,14 +3,14 @@
 
 $coinsforbuildingsupplies = "400"; // cost Backpack of building supplies package 1
 $mybuildlootp1 = '["DZ_LargeGunBag_EP1",[["ItemEtool","ItemCrowbar","ItemToolbox","ItemKnife","ItemHatchet_DZE"],[1,1,1,1,1]],[["CinderBlocks","cinder_wall_kit","MortarBucket","cinder_door_kit","30m_plot_kit"],[16,4,6,1,1]]]';
-$buildlootdescp1 = "<ul><li>1 - DZ_LargeGunBag_EP1</li><ul><li>1 - Hatchet</li></ul><ul><li>1 - WoodGarageDoor</li><li>3 - ItemWoodWallWithDoorLg</li></ul></ul>";
+$buildlootdescp1 = "<ul><li>1 - LargeGunBag</li><ul><li>1 - tool1</li><li>1 - tool2</li></ul><ul><li>1 - Item1</li><li>3 - item2</li></ul></ul>";
 
 $coinsforbuildingsupplies2 = "850"; // cost BackPack of building Supplies Package 2
 $mybuildlootp2 = '["DZ_LargeGunBag_EP1",[["ItemEtool","ItemCrowbar","ItemToolbox","ItemKnife","ItemHatchet_DZE","ItemSledge"],[1,1,1,1,1,1]],[["CinderBlocks","cinder_wall_kit","MortarBucket","cinder_door_kit","30m_plot_kit","metal_floor_kit","cinder_garage_kit","ItemVault","ItemComboLock","workbench_kit","wood_shack_kit","outhouse_kit","ItemFireBarrel_kit"],[12,8,4,2,1,8,2,1,4,1,1,1,1]]]';
-$buildlootdescp2 = "<ul><li>1 - DZ_LargeGunBag_EP1</li><ul><li>1 - Hatchet</li></ul><ul><li>1 - WoodGarageDoor</li><li>3 - ItemWoodWallWithDoorLg</li></ul></ul>";
+$buildlootdescp2 = "<ul><li>1 - LargeGunBag</li><ul><li>1 - tool1</li><li>1 - tool2</li></ul><ul><li>1 - Item1</li><li>3 - item2</li></ul></ul>";
 
 $coinsforbuildingsupplies3 = "3500"; // cost BackPack of Building Supplies Package 3
 $mybuildlootp3 = '["DZ_LargeGunBag_EP1",[["ItemEtool","ItemCrowbar","ItemToolbox","ItemKnife","ItemHatchet_DZE","ItemSledge"],[1,1,1,1,1,1]],[["CinderBlocks","cinder_wall_kit","MortarBucket","cinder_door_kit","30m_plot_kit","metal_floor_kit","cinder_garage_kit","ItemVault","ItemComboLock","workbench_kit","outhouse_kit","ItemFireBarrel_kit","fuel_pump_kit","ItemGenerator","storage_shed_kit","ItemWoodLadder","bulk_ItemTankTrap","bulk_PartGeneric","ItemMixOil"],[10,12,4,2,1,4,2,2,4,1,1,1,1,1,2,2,1,2,1]]]';
-$buildlootdescp3 = "<ul><li>1 - DZ_LargeGunBag_EP1</li><ul><li>1 - Hatchet</li></ul><ul><li>1 - WoodGarageDoor</li><li>3 - ItemWoodWallWithDoorLg</li></ul></ul>";
+$buildlootdescp3 = "<ul><li>1 - LargeGunBag</li><ul><li>1 - tool1</li><li>1 - tool2</li></ul><ul><li>1 - Item1</li><li>3 - item2</li></ul></ul>";
 
 /////////////////////////////begin starting loot setup///////////////////////////////////
