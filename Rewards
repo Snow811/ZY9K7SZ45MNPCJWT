@@ -1,16 +1,16 @@
 
 ///////////////////////////////////begin building supplies setup//////////////////
 
-$coinsforbuildingsupplies = "10"; // cost Backpack of building supplies package 1
-$mybuildlootp1 = "[\"DZ_LargeGunBag_EP1\",[[\"ItemHatchet\"],[1]],[[\"ItemWoodWallGarageDoor\",\"ItemWoodWallWithDoorLg\"],[1,3]]]";
-$buildlootdescp1 = "<ul><li>1 - DZ_LargeGunBag_EP1</li><li>1 - Hatchet</li><li>1 - WoodGarageDoor</li><li>3 - ItemWoodWallWithDoorLg</li></ul>"; //whats in the building loot?
+$coinsforbuildingsupplies = "400"; // cost Backpack of building supplies package 1
+$mybuildlootp1 = '["DZ_LargeGunBag_EP1",[["ItemEtool","ItemCrowbar","ItemToolbox","ItemKnife","ItemHatchet_DZE"],[1,1,1,1,1]],[["CinderBlocks","cinder_wall_kit","MortarBucket","cinder_door_kit","30m_plot_kit"],[16,4,6,1,1]]]';
+$buildlootdescp1 = "<ul><li>1 - DZ_LargeGunBag_EP1</li><ul><li>1 - Hatchet</li><li>1 - WoodGarageDoor</li><li>3 - ItemWoodWallWithDoorLg</li></ul></ul>";
 
-$coinsforbuildingsupplies2 = "15"; // cost BackPack of building Supplies Package 2
-$mybuildlootp2 = "[\"DZ_LargeGunBag_EP1\",[[\"ItemCompass\"],[1,1]],[[\"ItemWoodWallGarageDoor\",\"ItemWoodWallWithDoorLg\",\"ItemWoodWallLg\",\"ItemVault\",\"ItemWoodFloor\",\"ItemWoodStairs\",\"PartWoodLumber\",\"10Rnd_127x99_m107\",\"ItemComboLock\",\"ItemAntibiotic\",\"ItemBandage\",\"ItemGoldBar1oz\",\"MortarBucket\"],[1,1,4,1,4,2,4,1,1,2,1,2]]]";
-$buildlootdescp2 = "DZ_LargeGunBag_EP1 ItemCompass<br>(1)ItemWoodWallGarageDoor (1)ItemWoodWallWithDoorLg (4)ItemWoodWallLg<br>(1)ItemVault (4)ItemWoodFloor (2)ItemWoodStairs (4)PartWoodLumber<br> (1)ItemComboLock (1)ItemAntibiotic (2)ItemBandage (1)ItemGoldBar1oz (2)MortarBucket"; //whats in the building loot?
+$coinsforbuildingsupplies2 = "850"; // cost BackPack of building Supplies Package 2
+$mybuildlootp2 = '["DZ_LargeGunBag_EP1",[["ItemEtool","ItemCrowbar","ItemToolbox","ItemKnife","ItemHatchet_DZE","ItemSledge"],[1,1,1,1,1,1]],[["CinderBlocks","cinder_wall_kit","MortarBucket","cinder_door_kit","30m_plot_kit","metal_floor_kit","cinder_garage_kit","ItemVault","ItemComboLock","workbench_kit","wood_shack_kit","outhouse_kit","ItemFireBarrel_kit"],[12,8,4,2,1,8,2,1,4,1,1,1,1]]]';
+$buildlootdescp2 = ""; //whats in the building loot?
 
-$coinsforbuildingsupplies3 = "20"; // cost BackPack of Building Supplies Package 3
-$mybuildlootp3 = "[\"DZ_LargeGunBag_EP1\",[[\"ItemCompass\",\"ItemEtool\",\"ItemToolbox\",\"MeleeCrowbar\"],[1,1,1,1,1]],[[\"ItemVault\",\"ItemComboLock\",\"ItemAntibiotic\",\"ItemBandage\",\"ItemGoldBar1oz\",\"cinder_door_kit\",\"cinder_garage_kit\",\"cinder_wall_kit\",\"ItemWoodStairs\",\"10Rnd_127x99_m107\"],[1,1,1,2,1,1,1,7,3,7]]]";
-$buildlootdescp3 = "DZ_LargeGunBag_EP1 ItemCompass ItemEtool ItemToolbox MeleeCrowbar<br>(1)ItemVault (1)ItemComboLock (1)ItemAntibiotic<br>(2)ItemBandage (1)ItemGoldBar1oz (1)cinder_door_kit<br>(1)cinder_garage_kit (7)cinder_wall_kit (3)ItemWoodStairs,[1,1,1,2,1,1,1,7,3]]]"; //whats in the building loot?
+$coinsforbuildingsupplies3 = "3500"; // cost BackPack of Building Supplies Package 3
+$mybuildlootp3 = '["DZ_LargeGunBag_EP1",[["ItemEtool","ItemCrowbar","ItemToolbox","ItemKnife","ItemHatchet_DZE","ItemSledge"],[1,1,1,1,1,1]],[["CinderBlocks","cinder_wall_kit","MortarBucket","cinder_door_kit","30m_plot_kit","metal_floor_kit","cinder_garage_kit","ItemVault","ItemComboLock","workbench_kit","outhouse_kit","ItemFireBarrel_kit","fuel_pump_kit","ItemGenerator","storage_shed_kit","ItemWoodLadder","bulk_ItemTankTrap","bulk_PartGeneric","ItemMixOil"],[10,12,4,2,1,4,2,2,4,1,1,1,1,1,2,2,1,2,1]]]';
+$buildlootdescp3 = ""; //whats in the building loot?
 
 /////////////////////////////begin starting loot setup///////////////////////////////////
