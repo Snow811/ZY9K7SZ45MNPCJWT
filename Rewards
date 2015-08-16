@@ -3,7 +3,7 @@
 
 $coinsforbuildingsupplies = "10"; // cost Backpack of building supplies package 1
 $mybuildlootp1 = "[\"DZ_LargeGunBag_EP1\",[[\"ItemCompass\"],[1,1]],[[\"ItemWoodWallGarageDoor\",\"ItemWoodWallWithDoorLg\",\"ItemWoodWallLg\",\"ItemVault\",\"ItemWoodFloor\",\"ItemWoodStairs\",\"PartWoodLumber\",\"20Rnd_762x51_B_SCAR\",\"ItemComboLock\",\"ItemAntibiotic\",\"ItemBandage\",\"ItemGoldBar1oz\",\"MortarBucket\"],[1,1,4,1,4,2,4,1,1,2,1,2]]]";
-$buildlootdescp1 = "DZ_LargeGunBag_EP1 ItemCompass (1)ItemWoodWallGarageDoor (1)ItemWoodWallWithDoorLg (4)ItemWoodWallLg (1)ItemVault (4)ItemWoodFloor<br> (2)ItemWoodStairs (4)PartWoodLumber<br> (1)ItemComboLock (1)ItemAntibiotic (2)ItemBandage (1)ItemGoldBar1oz (2)MortarBucket"; //whats in the building loot?
+$buildlootdescp1 = "DZ_LargeGunBag_EP1 ItemCompass (1)<br>ItemWoodWallGarageDoor (1)<br>ItemWoodWallWithDoorLg (4)ItemWoodWallLg (1)ItemVault (4)ItemWoodFloor<br> (2)ItemWoodStairs (4)PartWoodLumber<br> (1)ItemComboLock (1)ItemAntibiotic (2)ItemBandage (1)ItemGoldBar1oz (2)MortarBucket"; //whats in the building loot?
 
 $coinsforbuildingsupplies2 = "15"; // cost BackPack of building Supplies Package 2
 $mybuildlootp2 = "[\"DZ_LargeGunBag_EP1\",[[\"ItemCompass\"],[1,1]],[[\"ItemWoodWallGarageDoor\",\"ItemWoodWallWithDoorLg\",\"ItemWoodWallLg\",\"ItemVault\",\"ItemWoodFloor\",\"ItemWoodStairs\",\"PartWoodLumber\",\"10Rnd_127x99_m107\",\"ItemComboLock\",\"ItemAntibiotic\",\"ItemBandage\",\"ItemGoldBar1oz\",\"MortarBucket\"],[1,1,4,1,4,2,4,1,1,2,1,2]]]";
